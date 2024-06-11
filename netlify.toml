@@ -1,0 +1,4 @@
+[[redirects]]
+from="/*"
+to="./customer-audience-frontend/src/app.js"
+status=200
